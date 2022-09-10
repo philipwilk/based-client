@@ -281,11 +281,6 @@ hash = "1da5f38d24b00e49108dedf43fe3dd388bade82563e5f69689d051167ea57927"
 metafile = true
 
 [[files]]
-file = "mods/superfancyclouds.pw.toml"
-hash = "fd461ae9dcaabd7cf23b5325753b002b9f7fd27dec1970585e59a3451d24acd9"
-metafile = true
-
-[[files]]
 file = "mods/title-fixer.pw.toml"
 hash = "1c6f2ef8ab6f44540f382efce0fb617a619c942292da240444519e7ec5a7cb66"
 metafile = true
