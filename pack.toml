@@ -1,12 +1,12 @@
-name = "Unbelievably Based 1 . 19 . 2"
+name = "Based Client"
 author = "wiryfuture"
-version = "1.3.1"
+version = "1.4.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d21119319d2889a4fef7b5982eef611b07067587cf148487afecbcb944ff61b1"
+hash = "87e68a86bd58a5ed6b39b968ba62859d1ae997aa40aa19ce5d5fd20208fbbf2c"
 
 [versions]
 minecraft = "1.19.2"

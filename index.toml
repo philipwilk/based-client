@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "c47b4e6dea49ed224870b70e2101f7dfea59c63490cca1d5f5a1dd43b18c56ef"
+hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
 
 [[files]]
@@ -142,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "59c8274b76d6b09e5cb16939ed8adbe8e2d38eadc85682125d6a9ede6653bcd2"
+hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
 metafile = true
 
 [[files]]
@@ -178,11 +178,6 @@ metafile = true
 [[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
-metafile = true
-
-[[files]]
-file = "mods/libjf.pw.toml"
-hash = "92dcd937212250cdc9a891178c04a424136f42ae5cc8e3c565c0df3b7b74ecf6"
 metafile = true
 
 [[files]]
@@ -257,17 +252,12 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "79c8f0a39cb0d8e3b30341ad4190b81b283abb8f117adfb539506042e08e4f7e"
+hash = "01e23be2b0b85c174b6fdf2b561aee7299e4fd1bf7170945ab23b4bdafcce86a"
 metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "4164a7e3bdf7dea7c453937f4d8f886cde446f8dc842e4e19655d24cbc5a474e"
-metafile = true
-
-[[files]]
-file = "mods/slyde.pw.toml"
-hash = "bfd7676bc5e962a70fac8f76edcf2b500b1dfff92b399a3f770847570d8ea102"
 metafile = true
 
 [[files]]
