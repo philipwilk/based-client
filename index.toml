@@ -11,6 +11,11 @@ hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
 metafile = true
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "208a021c2243bdcbddb09c5ed46eb150c390a89801b8c44703ecb83066cf20f3"
+metafile = true
+
+[[files]]
 file = "mods/antighost.pw.toml"
 hash = "242e18d68cb8d218df43e713e97239631f8612384789068659c4898cfa49fcef"
 metafile = true
@@ -101,6 +106,16 @@ hash = "bf466c25f51d243f814c775ea0b24bc98846b2f8de550c6c45c9ad421562e313"
 metafile = true
 
 [[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "7321ef1fe38cd8a0abe95a8c653c6dc2eddd07aee756e48de2522a87416ea620"
+metafile = true
+
+[[files]]
+file = "mods/dynamicsurroundings_remasteredfabric.pw.toml"
+hash = "4038b41bba5cfd84d5e0a7d7ce1e042f735bde097f7b68460bc6c6366d567eeb"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "f0a1c212e68166b823a68080b32fd27d772fe87d533409fc0feb35a5c4c2093e"
 metafile = true
@@ -118,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
 hash = "d54b2f29fb0eed2843678d99b4e4667ba9b3fda86c49e2f7c9a90cb2c1c15fbf"
+metafile = true
+
+[[files]]
+file = "mods/inventory-tabs-updated.pw.toml"
+hash = "a8ec5fd59ff7ddab287b339ca91c49af53ecea28105d764a1b560c4fbdfaf7d6"
 metafile = true
 
 [[files]]
@@ -161,6 +181,11 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/libjf.pw.toml"
+hash = "92dcd937212250cdc9a891178c04a424136f42ae5cc8e3c565c0df3b7b74ecf6"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
 metafile = true
@@ -181,6 +206,11 @@ hash = "24b56cdea0d96fc1b03b8cb6e6bb4b600c6fe730f7cd86e84004d100779ad5a1"
 metafile = true
 
 [[files]]
+file = "mods/moremusic.pw.toml"
+hash = "9faaa7f33821cfd62e8f2d96cc3c1a72f484bf0e6c37db774b809105d7693de5"
+metafile = true
+
+[[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "db4b9b11b1f59b156b3a56bf9a7ac7b5218f3c43fdc7d83d5c2963820a9ef88d"
 metafile = true
@@ -188,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "cd2704a99b24207489be8c2b19167e04e241fc4385985fbb3761eda1ed92d26f"
+metafile = true
+
+[[files]]
+file = "mods/numeral-ping.pw.toml"
+hash = "d66a3e2d8bd4e887e659460567a311f2a184a191be157804c757890f92d143d4"
 metafile = true
 
 [[files]]
@@ -231,6 +266,11 @@ hash = "4164a7e3bdf7dea7c453937f4d8f886cde446f8dc842e4e19655d24cbc5a474e"
 metafile = true
 
 [[files]]
+file = "mods/slyde.pw.toml"
+hash = "bfd7676bc5e962a70fac8f76edcf2b500b1dfff92b399a3f770847570d8ea102"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "82585384e2026e809e34368ac23e9a1e11918aa449529ce79903c03eb4cbbc2e"
 metafile = true
@@ -241,11 +281,6 @@ hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "198284d31961c9e8a26c154c30ee2e7abe818eed5a5bc9d6f4a77a09456d29b5"
-metafile = true
-
-[[files]]
 file = "mods/starlight.pw.toml"
 hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
@@ -253,6 +288,11 @@ metafile = true
 [[files]]
 file = "mods/statuseffecttimer.pw.toml"
 hash = "1da5f38d24b00e49108dedf43fe3dd388bade82563e5f69689d051167ea57927"
+metafile = true
+
+[[files]]
+file = "mods/superfancyclouds.pw.toml"
+hash = "fd461ae9dcaabd7cf23b5325753b002b9f7fd27dec1970585e59a3451d24acd9"
 metafile = true
 
 [[files]]
