@@ -251,6 +251,11 @@ hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
+file = "mods/statuseffecttimer.pw.toml"
+hash = "1da5f38d24b00e49108dedf43fe3dd388bade82563e5f69689d051167ea57927"
+metafile = true
+
+[[files]]
 file = "mods/title-fixer.pw.toml"
 hash = "1c6f2ef8ab6f44540f382efce0fb617a619c942292da240444519e7ec5a7cb66"
 metafile = true
