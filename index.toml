@@ -111,11 +111,6 @@ hash = "7321ef1fe38cd8a0abe95a8c653c6dc2eddd07aee756e48de2522a87416ea620"
 metafile = true
 
 [[files]]
-file = "mods/dynamicsurroundings_remasteredfabric.pw.toml"
-hash = "4038b41bba5cfd84d5e0a7d7ce1e042f735bde097f7b68460bc6c6366d567eeb"
-metafile = true
-
-[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "f0a1c212e68166b823a68080b32fd27d772fe87d533409fc0feb35a5c4c2093e"
 metafile = true
@@ -273,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "198284d31961c9e8a26c154c30ee2e7abe818eed5a5bc9d6f4a77a09456d29b5"
 metafile = true
 
 [[files]]
