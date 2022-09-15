@@ -231,6 +231,11 @@ hash = "1a32186b1e676035de8810f1b6ab6bbb2763996c5e53aef95878908e9d9e487b"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "c0b8dcde9209582f6bdf00db9d6df59e9db51ee592020e7552576a3cf2109b04"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "c9b5c7f923336eb60458492ee72e30471edefa0b5b897d279def756101895737"
 metafile = true
