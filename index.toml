@@ -141,6 +141,11 @@ hash = "31e6caa20a856e7c70930ab46154e93ffe4c5f371bf520561ae90cd418d976b1"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "9ab7092cb7e27bec8bb02d195e8f0c6a207b3f1383da7179a57ebd3328778a24"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
 metafile = true
@@ -163,11 +168,6 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "eace40b19fb6ff7d971309ebcc5d552c00384cb9629d28f9c9c7ef9f92f000a5"
-metafile = true
-
-[[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "2ea587bc28af997f2b93de69af32b8ba0120ce8a2c0e95624a0c55051eb25041"
 metafile = true
 
 [[files]]
