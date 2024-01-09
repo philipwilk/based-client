@@ -1,13 +1,16 @@
 name = "Based Client"
 author = "wiryfuture"
-version = "1.5.1"
+version = "3.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "88853afe6b3fa9911155af5d5241fa53dc843c012a733e388366a3d8bc516896"
+hash = "7f370e861a77c8038d3df1f701627db09d03c6530c6293f1e8e3f7bed9d480a2"
 
 [versions]
-minecraft = "1.19.2"
-quilt = "0.17.5-beta.2"
+minecraft = "1.20.4"
+quilt = "0.23.0"
+
+[options]
+acceptable-game-versions = ["1.20.2", "1.20.3", "1.20.4"]

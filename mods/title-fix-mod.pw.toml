@@ -1,0 +1,13 @@
+name = "Title Fix Mod"
+filename = "title-fix-1.0.1+MC1.17.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GGfDBa1i/versions/v1.0.1%2BMC1.17.1/title-fix-1.0.1%2BMC1.17.1.jar"
+hash-format = "sha1"
+hash = "2a24ffbd54c7cceb01d8603e518bd978fcfa5752"
+
+[update]
+[update.modrinth]
+mod-id = "GGfDBa1i"
+version = "zBm2jqDT"
